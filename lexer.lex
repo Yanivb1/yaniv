@@ -2,7 +2,6 @@
 /*Declarations*/
 #include <stadio.h>
 /* Need to Include output && parser*/
-
 %}
 
 %option yylineno
